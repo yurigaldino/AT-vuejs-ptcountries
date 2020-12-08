@@ -1,4 +1,8 @@
-# ui_test_gui
+# AT-vuejs-ptcountries
+App feito para a disciplina "Frameworks Front-End e Conexão com Back-End" entregue em Dezembro/2020.
+
+# Features
+Contém consumo de dados de API usando Axios, Vuex, Vue-Router, BootstrapVue e conceitos de JS.
 
 ## Project setup
 ```
